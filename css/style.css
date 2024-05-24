@@ -54,6 +54,13 @@ body {
     height: 85px;
 }
 
+.mini {
+    width: 50%;
+    background-color: aquamarine;
+    height: 70px;
+    margin-top: 15px;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
