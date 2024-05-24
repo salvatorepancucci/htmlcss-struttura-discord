@@ -110,35 +110,35 @@ body {
 }
 
 .col7 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
+    width: 15%;
+    height: 200px;
+    background-color: pink;
     border: 1px dashed  black;
-    margin: 10px;
+    margin: 15px 0 auto;
 }
 
 .col8 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
+    width: 35%;
+    height: 200px;
+    background-color: dodgerblue;
     border: 1px dashed  black;
-    margin: 10px;
+    margin: 15px 0 auto;
 }
 
 .col9 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
+    width: 35%;
+    height: 200px;
+    background-color: dodgerblue;
     border: 1px dashed  black;
-    margin: 10px;
+    margin: 15px 0 auto;
 }
 
 .col10 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
+    width: 15%;
+    height: 200px;
+    background-color: pink;
     border: 1px dashed  black;
-    margin: 10px;
+    margin: 15px 0 auto;
 }
 
 .col11 {
