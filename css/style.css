@@ -142,11 +142,11 @@ body {
 }
 
 .col11 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
+    width: 50%;
+    height: 380px;
+    background-color: green;
     border: 1px dashed  black;
-    margin: 10px;
+    margin: 15px;
 }
 
 .col12 {
@@ -154,7 +154,7 @@ body {
     height: 180px;
     background-color: fuchsia;
     border: 1px dashed  black;
-    margin: 10px;
+    margin: 15px;
 }
 
 .col13 {
@@ -162,7 +162,7 @@ body {
     height: 180px;
     background-color: fuchsia;
     border: 1px dashed  black;
-    margin: 10px;
+    margin: 15px;
 }
 
 .col14 {
