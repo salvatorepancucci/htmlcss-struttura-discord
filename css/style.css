@@ -197,17 +197,9 @@ body {
     margin: 15px 0 auto;
 }
 
-.col17 {
-    
-}
-
-.col18 {
-    
-}
-
 /* Elements */
 
-.content {
+.content1 {
     padding: 3px;
 }
 
@@ -221,4 +213,25 @@ body {
 
 #line {
     margin-top: 10px;
+}
+
+#logo {
+    width:76px;
+    height: 4px;
+    background-color: pink;
+    border: 1px dashed black;
+    text-align: center;
+    padding: 3px;
+    line-height: 7;
+}
+
+#btn {
+    width: 9px;
+    height: 4px;
+    background-color: pink;
+    border: 1px dashed black;
+    text-align: center;
+    padding: 3px;
+    line-height: 7;
+    margin-left: 639px;
 }
