@@ -7,6 +7,7 @@
 body {
     font-family: 'Arial', sans-serif;
     font-size: 11px;
+    background-color: rgb(46, 46, 46);
 }
 
 /*Rows */
@@ -44,13 +45,13 @@ body {
 .container-black {
     max-width: 100%;
     background-color: rgb(46, 46, 46);
-    height: 250px;
+    height: 300px;
 }
 
 .container-black2 {
     max-width: 100%;
     background-color: rgb(46, 46, 46);
-    height: 50px;
+    height: 85px;
 }
 
 .row {
@@ -150,59 +151,51 @@ body {
 }
 
 .col12 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
+    width: 18%;
+    height: 280px;
+    background-color: salmon;
     border: 1px dashed  black;
-    margin: 15px;
+    margin: 15px 0 auto;
 }
 
 .col13 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
-    border: 1px dashed  black;
-    margin: 15px;
+    width: 8%;
+    height: 280px;
+    background-color: teal;
+    border: 1px dashed  white;
+    margin: 15px 0 auto;
 }
 
 .col14 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
-    border: 1px dashed  black;
-    margin: 10px;
+    width: 8%;
+    height: 280px;
+    background-color: teal;
+    border: 1px dashed  white;
+    margin: 15px 0 auto;
 }
 
 .col15 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
-    border: 1px dashed  black;
-    margin: 10px;
+    width: 8%;
+    height: 280px;
+    background-color: teal;
+    border: 1px dashed  white;
+    margin: 15px 0 auto;
 }
 
 .col16 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
-    border: 1px dashed  black;
-    margin: 10px;
+    width: 8%;
+    height: 280px;
+    background-color: teal;
+    border: 1px dashed  white;
+    margin: 15px 0 auto;
 }
 
 .col17 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
-    border: 1px dashed  black;
-    margin: 10px;
+    
 }
 
 .col18 {
-    width: 40%;
-    height: 180px;
-    background-color: fuchsia;
-    border: 1px dashed  black;
-    margin: 10px;
+    
 }
 
 /* Elements */
@@ -219,3 +212,6 @@ body {
     text-align: right;
 }
 
+#line {
+    margin-top: 10px;
+}
