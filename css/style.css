@@ -93,6 +93,118 @@ body {
     margin: 10px;
 }
 
+.col5 {
+    width: 35%;
+    height: 200px;
+    background-color: dodgerblue;
+    border: 1px dashed  black;
+    margin: 15px 0 auto;
+}
+
+.col6 {
+    width: 15%;
+    height: 200px;
+    background-color: pink;
+    border: 1px dashed  black;
+    margin: 15px 0 auto;
+}
+
+.col7 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col8 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col9 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col10 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col11 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col12 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col13 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col14 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col15 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col16 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col17 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
+.col18 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
+
 /* Elements */
 
 .content {
