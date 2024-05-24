@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 11px;
+}
+
+.container {
+    max-width: 100%;
+    background-color: rgb(117, 191, 252);
+    height: 40px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.col1 {
+    width: 10%;
+    height: 20px;
+    background-color: orange;
+    border: 1px dashed  black;
+    margin: 9px 0 auto;
+}
+
+.col2 {
+    width: 30%;
+    height: 20px;
+    background-color: orange;
+    border: 1px dashed  black;
+    margin: 9px 0 auto;
+}
+
+.col3 {
+    width: 10%;
+    height: 20px;
+    background-color: orange;
+    border: 1px dashed  black;
+    margin: 9px 0 auto;
+}
+
+.content {
+    padding: 3px;
+}
+
+#link {
+    text-align: center;
+}
+
+#login {
+    text-align: right;
+}
