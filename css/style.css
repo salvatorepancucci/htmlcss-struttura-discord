@@ -56,3 +56,17 @@ body {
 #login {
     text-align: right;
 }
+
+.container-blue {
+    max-width: 100%;
+    background-color: blue;
+    height: 200px;
+}
+
+.col4 {
+    width: 40%;
+    height: 180px;
+    background-color: fuchsia;
+    border: 1px dashed  black;
+    margin: 10px;
+}
